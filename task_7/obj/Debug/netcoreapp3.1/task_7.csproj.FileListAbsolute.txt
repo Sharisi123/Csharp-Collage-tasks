@@ -1,0 +1,41 @@
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.exe
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.deps.json
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.dll
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.pdb
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.dll
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.pdb
+C:\Users\User\OneDrive\Рабочий стол\C#\Console-apps\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.genruntimeconfig.cache
+C:\Users\alex\Desktop\OOP\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.exe
+C:\Users\alex\Desktop\OOP\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.deps.json
+C:\Users\alex\Desktop\OOP\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.runtimeconfig.json
+C:\Users\alex\Desktop\OOP\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.runtimeconfig.dev.json
+C:\Users\alex\Desktop\OOP\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.dll
+C:\Users\alex\Desktop\OOP\Practic1\task_7\bin\Debug\netcoreapp3.1\task_7.pdb
+C:\Users\alex\Desktop\OOP\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.csproj.AssemblyReference.cache
+C:\Users\alex\Desktop\OOP\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\OOP\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\OOP\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.AssemblyInfo.cs
+C:\Users\alex\Desktop\OOP\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\OOP\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.dll
+C:\Users\alex\Desktop\OOP\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.pdb
+C:\Users\alex\Desktop\OOP\Practic1\task_7\obj\Debug\netcoreapp3.1\task_7.genruntimeconfig.cache
+D:\1prog\OOP\Практична_1\task_7\bin\Debug\netcoreapp3.1\task_7.exe
+D:\1prog\OOP\Практична_1\task_7\bin\Debug\netcoreapp3.1\task_7.deps.json
+D:\1prog\OOP\Практична_1\task_7\bin\Debug\netcoreapp3.1\task_7.runtimeconfig.json
+D:\1prog\OOP\Практична_1\task_7\bin\Debug\netcoreapp3.1\task_7.runtimeconfig.dev.json
+D:\1prog\OOP\Практична_1\task_7\bin\Debug\netcoreapp3.1\task_7.dll
+D:\1prog\OOP\Практична_1\task_7\bin\Debug\netcoreapp3.1\task_7.pdb
+D:\1prog\OOP\Практична_1\task_7\obj\Debug\netcoreapp3.1\task_7.csproj.AssemblyReference.cache
+D:\1prog\OOP\Практична_1\task_7\obj\Debug\netcoreapp3.1\task_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\1prog\OOP\Практична_1\task_7\obj\Debug\netcoreapp3.1\task_7.AssemblyInfoInputs.cache
+D:\1prog\OOP\Практична_1\task_7\obj\Debug\netcoreapp3.1\task_7.AssemblyInfo.cs
+D:\1prog\OOP\Практична_1\task_7\obj\Debug\netcoreapp3.1\task_7.csproj.CoreCompileInputs.cache
+D:\1prog\OOP\Практична_1\task_7\obj\Debug\netcoreapp3.1\task_7.dll
+D:\1prog\OOP\Практична_1\task_7\obj\Debug\netcoreapp3.1\task_7.pdb
+D:\1prog\OOP\Практична_1\task_7\obj\Debug\netcoreapp3.1\task_7.genruntimeconfig.cache
