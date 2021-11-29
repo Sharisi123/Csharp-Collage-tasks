@@ -1,0 +1,16 @@
+D:\1prog\OOP\Practic_3\task_1\bin\Debug\net5.0\task_1.exe
+D:\1prog\OOP\Practic_3\task_1\bin\Debug\net5.0\task_1.deps.json
+D:\1prog\OOP\Practic_3\task_1\bin\Debug\net5.0\task_1.runtimeconfig.json
+D:\1prog\OOP\Practic_3\task_1\bin\Debug\net5.0\task_1.runtimeconfig.dev.json
+D:\1prog\OOP\Practic_3\task_1\bin\Debug\net5.0\task_1.dll
+D:\1prog\OOP\Practic_3\task_1\bin\Debug\net5.0\ref\task_1.dll
+D:\1prog\OOP\Practic_3\task_1\bin\Debug\net5.0\task_1.pdb
+D:\1prog\OOP\Practic_3\task_1\obj\Debug\net5.0\task_1.csproj.AssemblyReference.cache
+D:\1prog\OOP\Practic_3\task_1\obj\Debug\net5.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\1prog\OOP\Practic_3\task_1\obj\Debug\net5.0\task_1.AssemblyInfoInputs.cache
+D:\1prog\OOP\Practic_3\task_1\obj\Debug\net5.0\task_1.AssemblyInfo.cs
+D:\1prog\OOP\Practic_3\task_1\obj\Debug\net5.0\task_1.csproj.CoreCompileInputs.cache
+D:\1prog\OOP\Practic_3\task_1\obj\Debug\net5.0\task_1.dll
+D:\1prog\OOP\Practic_3\task_1\obj\Debug\net5.0\ref\task_1.dll
+D:\1prog\OOP\Practic_3\task_1\obj\Debug\net5.0\task_1.pdb
+D:\1prog\OOP\Practic_3\task_1\obj\Debug\net5.0\task_1.genruntimeconfig.cache
